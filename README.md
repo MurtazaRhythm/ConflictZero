@@ -1,6 +1,27 @@
-# uOttawaHack8 NAV CANADA Trajectory Insight Challenge
+# uOttawaHack8 Trajectory Insight Challenge
 
 Create a tool for the national flight planning center that extracts insights from a list of daily planned flights and proposes solutions for conflicts and hot spots while taking into account cost and efficiency.  The idea is that air traffic planners will use the insights from your tool to adjust the planned flight operations. 
+
+## ⚠️ Data Disclaimer
+
+**IMPORTANT: This is synthetic data for hackathon purposes only.**
+
+### Not for Operational Use
+
+- ❌ **DO NOT use this data for actual flight planning, air traffic control, or aviation operations**
+- ❌ This data does not represent real flights, schedules, or aircraft positions
+- ❌ Airport coordinates are approximate and simplified for visualization purposes
+- ❌ Waypoints are fictional and do not represent actual navigation routes
+- ❌ Aircraft performance characteristics are generalized approximations
+
+### Data Accuracy
+
+**Synthetic Elements:**
+- All flight numbers, schedules, and routes are computer-generated
+- Passenger counts are randomly generated within realistic ranges
+- Waypoints do not correspond to real NAVAIDs or GPS coordinates used in aviation
+- Conflict detection parameters are simplified for educational purposes
+- Aircraft performance (speed, altitude, climb rates) are approximate averages
 
 ## JSON Format
 
