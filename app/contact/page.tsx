@@ -30,6 +30,9 @@ export default function ContactPage() {
           <Link href="/globe" className="text-white text-sm">
             Visualization
           </Link>
+          <Link href="/analysis" className="text-white text-sm">
+            Analysis
+          </Link>
           <Link href="/about" className="text-white text-sm">
             About
           </Link>

@@ -150,6 +150,7 @@ export default function GlobePage() {
         <div className="flex justify-center gap-8 text-white text-sm">
           <Link href="/">Home</Link>
           <Link href="/globe">Visualization</Link>
+          <Link href="/analysis">Analysis</Link>
           <Link href="/about">About</Link>
           <Link href="/team">Team</Link>
           <Link href="/contact">Contact</Link>
